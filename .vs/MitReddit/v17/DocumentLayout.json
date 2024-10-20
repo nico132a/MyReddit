@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\todolistblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|solutionrelative:todolistblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\todolistblazor\\pages\\postdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|solutionrelative:todolistblazor\\pages\\postdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\todolistblazor\\pages\\forside.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|solutionrelative:todolistblazor\\pages\\forside.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\todolistblazor\\pages\\tilf\u00F8jtr\u00E5d.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{675EA344-3A9A-455E-A6D9-0F243C934164}|TodoListBlazor\\TodoListBlazor.csproj|solutionrelative:todolistblazor\\pages\\tilf\u00F8jtr\u00E5d.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E2273A-1C4F-48D9-846A-01D9AA40D9BC}|-api\\-api.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E2273A-1C4F-48D9-846A-01D9AA40D9BC}|-api\\-api.csproj|solutionrelative:-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\model\\postdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\model\\postdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\model\\commentdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\model\\commentdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\migrations\\postdata\\postdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\migrations\\postdata\\postdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\migrations\\postdata\\20241020111532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\migrations\\postdata\\20241020111532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\model\\postdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\model\\postdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|c:\\users\\nicol\\onedrive\\skrivebord\\projekt reddit\\shared\\model\\postdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40E4C7-B482-4697-9116-E8513AAB0569}|shared\\shared.csproj|solutionrelative:shared\\model\\postdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tilf\u00F8jTr\u00E5d.razor",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\Tilf\u00F8jTr\u00E5d.razor",
+              "RelativeDocumentMoniker": "TodoListBlazor\\Pages\\Tilf\u00F8jTr\u00E5d.razor",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\Tilf\u00F8jTr\u00E5d.razor",
+              "RelativeToolTip": "TodoListBlazor\\Pages\\Tilf\u00F8jTr\u00E5d.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:34:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Program.cs",
+              "RelativeToolTip": "TodoListBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:38:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\-api\\Program.cs",
+              "RelativeDocumentMoniker": "-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\-api\\Program.cs",
+              "RelativeToolTip": "-api\\Program.cs",
+              "ViewState": "AQIAAIICAAAAAAAAAAAAAH4CAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:33:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241020111532_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\Migrations\\PostData\\20241020111532_InitialCreate.cs",
+              "RelativeDocumentMoniker": "shared\\Migrations\\PostData\\20241020111532_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\Migrations\\PostData\\20241020111532_InitialCreate.cs",
+              "RelativeToolTip": "shared\\Migrations\\PostData\\20241020111532_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:28:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\Migrations\\PostData\\PostDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "shared\\Migrations\\PostData\\PostDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\Migrations\\PostData\\PostDataContextModelSnapshot.cs",
+              "RelativeToolTip": "shared\\Migrations\\PostData\\PostDataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:25:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostData.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostData.cs",
+              "RelativeDocumentMoniker": "shared\\model\\PostData.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostData.cs",
+              "RelativeToolTip": "shared\\model\\PostData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:41:03.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostDetail.razor",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\PostDetail.razor",
+              "RelativeDocumentMoniker": "TodoListBlazor\\Pages\\PostDetail.razor",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\PostDetail.razor",
+              "RelativeToolTip": "TodoListBlazor\\Pages\\PostDetail.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:18:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostDataService.cs",
+              "RelativeDocumentMoniker": "shared\\model\\PostDataService.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostDataService.cs",
+              "RelativeToolTip": "shared\\model\\PostDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:17:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostDataContext.cs",
+              "RelativeDocumentMoniker": "shared\\model\\PostDataContext.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\PostDataContext.cs",
+              "RelativeToolTip": "shared\\model\\PostDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:16:59.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\CommentDataContext.cs",
+              "RelativeDocumentMoniker": "shared\\model\\CommentDataContext.cs",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\shared\\model\\CommentDataContext.cs",
+              "RelativeToolTip": "shared\\model\\CommentDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:16:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forside.razor",
+              "DocumentMoniker": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\Forside.razor",
+              "RelativeDocumentMoniker": "TodoListBlazor\\Pages\\Forside.razor",
+              "ToolTip": "C:\\Users\\Nicol\\OneDrive\\Skrivebord\\Projekt reddit\\TodoListBlazor\\Pages\\Forside.razor",
+              "RelativeToolTip": "TodoListBlazor\\Pages\\Forside.razor",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:06:00.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
